@@ -2,4 +2,6 @@ node_modules
 .idea
 app/**/*.map
 app/**/*.js
+!app/bower_components/jquery/**/*.map
+!app/bower_components/jquery/**/*.js
 **/.DS_Store
